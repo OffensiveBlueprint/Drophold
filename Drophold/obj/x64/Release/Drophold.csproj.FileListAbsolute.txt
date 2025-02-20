@@ -1,0 +1,7 @@
+C:\Users\wikto\source\repos\Drophold\Drophold\bin\x64\Release\Drophold.exe.config
+C:\Users\wikto\source\repos\Drophold\Drophold\bin\x64\Release\Drophold.exe
+C:\Users\wikto\source\repos\Drophold\Drophold\bin\x64\Release\Drophold.pdb
+C:\Users\wikto\source\repos\Drophold\Drophold\obj\x64\Release\Drophold.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\Drophold\Drophold\obj\x64\Release\Drophold.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\Drophold\Drophold\obj\x64\Release\Drophold.exe
+C:\Users\wikto\source\repos\Drophold\Drophold\obj\x64\Release\Drophold.pdb
